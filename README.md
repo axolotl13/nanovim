@@ -23,10 +23,10 @@ It´s a minimal configuration for nvim 0.7+ write in lua.
 ## How to install?
 
 ```bash
-git clone https://github.com/axolotl13/pequenio ~/.config/nvim
+git clone https://github.com/axolotl13/nanovim ~/.config/nvim
 
 # Inside nvim
 :PackerSync
 ```
 
-[](https://github.com/axolotl13/nanovim/blob/main/.img/pic1.png)
+![](https://raw.githubusercontent.com/axolotl13/nanovim/main/.img/pic1.png)
