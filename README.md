@@ -1,6 +1,6 @@
-# Pequenio
+# Nanovim
 
-## What is Pequenio?
+## What is Nanovim?
 
 It´s a minimal configuration for nvim 0.7+ write in lua.
 
@@ -29,5 +29,4 @@ git clone https://github.com/axolotl13/pequenio ~/.config/nvim
 :PackerSync
 ```
 
-![](/tmp/nvim2/nvim/.img/pic1.png)
-
+[](https://github.com/axolotl13/nanovim/blob/main/.img/pic1.png)
